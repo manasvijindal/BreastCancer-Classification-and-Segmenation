@@ -17,3 +17,10 @@ boost segmentation accuracy. The structured approach, from data preprocessing
 to data classification to ensemble learning, represents a significant advancement in
 improving segmentation accuracy for medical image analysis, thus contributing to
 more accurate healthcare diagnostics.
+
+Team details:
+Manasvi Jindal
+manasvi031btaiml22@igdtuw.ac.in
+
+Monya Mehta
+monya034btaiml22@igdtuw.ac.in
