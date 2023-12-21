@@ -19,6 +19,7 @@ improving segmentation accuracy for medical image analysis, thus contributing to
 more accurate healthcare diagnostics.
 
 Team details:
+
 Manasvi Jindal
 manasvi031btaiml22@igdtuw.ac.in
 
